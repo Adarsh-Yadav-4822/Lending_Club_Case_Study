@@ -18,6 +18,14 @@ Approach:
 - Summary
 
 
+## Technologies Used
+- Python library - Pandas 2.2.2
+- Python library - Numpy 1.26.4
+- Python library - Seaborn 0.13.2
+- Python library - Matplotlib
+- Jupyter Notebook 7.0.8
+
+
 ## Conclusions
 - Most of the Charged Off loans for 5000 and 10000 range
 - Grade B had most number of Charged Off loans
@@ -53,6 +61,7 @@ Approach:
 - Python library - Seaborn 0.13.2
 - Python library - Matplotlib
 - Jupyter Notebook 7.0.8
+
 
 ## Acknowledgements
 This project has been jointly completed by Afsarunnisa, afsara.504@gmail.com and Adarsh Yadav, adarshy4822@gmail.com
