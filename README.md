@@ -1,11 +1,11 @@
 # Lending Club
-> Data from consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+> Consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
 > The company wants to understand the driving factors (or driver variables) behind loan default, the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Table of Contents
 * EDA on loan Dataset of Lending Club
-* Technology Used: Python 3.12.4
+* Technologies Used
 * Conclusions
 * Acknowledgements
 
