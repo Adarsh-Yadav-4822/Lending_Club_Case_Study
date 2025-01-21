@@ -1,5 +1,6 @@
 # Lending Club
-> Lending Club Case Study
+> Data from consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+> The company wants to understand the driving factors (or driver variables) behind loan default, the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Table of Contents
@@ -10,13 +11,25 @@
 
 
 ## EDA on loan Dataset of Lending Club
-- The company wants to understand the driving factors (or driver variables) behind loan default, the variables which are strong indicators of default.
-- Data from consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
-- The company wants to understand the driving factors (or driver variables) behind loan default, the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
-- Data from consumer finance company of previous applicants in csv format
+Approach:
+- Data Cleaning
+- Univariate Analysis
+- Segmented Univariate Analysis and Bivariate Analysis
+- Summary
 
 
 ## Conclusions
+- Most of the Charged Off loans for 5000 and 10000 range
+- Grade B had most number of Charged Off loans
+- Grade G had least number of Charged Off loans
+- Grade B5 had most number of Charged Off loans
+- Grade B3 had most number of Charged Off loans
+- Grade c1 had most number of Charged Off loans
+- Grade B4 had most number of Charged Off loans
+- Grade C2 had most number of Charged Off loans
+- with employment length 10 has highest number off charged off loans
+- year 2011 had most number of charged
+- Homeownership with rent and mortgage had most number of charged off loans off loans 
 - The applicants living on Rent or having Morgages are more likely to default
 - Applicants taking loan for Debt Consolidation are more likely to default
 - Applicants taking loan for Miscelleneous purposes are more likely to default
@@ -35,10 +48,10 @@
 
 
 ## Technologies Used
-- library - Pandas 2.2.2
-- library - Numpy 1.26.4
-- library - Seaborn 0.13.2
-- library - Matplotlib
+- Python library - Pandas 2.2.2
+- Python library - Numpy 1.26.4
+- Python library - Seaborn 0.13.2
+- Python library - Matplotlib
 - Jupyter Notebook 7.0.8
 
 ## Acknowledgements
