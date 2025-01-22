@@ -68,4 +68,4 @@ This project has been jointly completed by Afsarunnisa, afsara.504@gmail.com and
 
 
 ## Contact
-Created by [@Adarsh-Yadav-4822] - feel free to contact me!
+Created by [@Adarsh-Yadav-4822], [Afsarunnisa] - feel free to contact me!
