@@ -55,14 +55,6 @@ Approach:
 - There are more than 50% of the un-verified applicants that are defaulting on comparing with verified ones. So it's highly recommended to verify the loan applicants before approving the loan
 
 
-## Technologies Used
-- Python library - Pandas 2.2.2
-- Python library - Numpy 1.26.4
-- Python library - Seaborn 0.13.2
-- Python library - Matplotlib
-- Jupyter Notebook 7.0.8
-
-
 ## Acknowledgements
 This project has been jointly completed by Afsarunnisa, afsara.504@gmail.com and Adarsh Yadav, adarshy4822@gmail.com
 
